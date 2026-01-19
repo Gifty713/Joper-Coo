@@ -21,7 +21,7 @@ const RentTab = () =>{
     const units = ["Location", "Car Type", "Pick up point"]
     
     const isOpen =(e)=>{
-        isShowPopUp(true)nnn
+        isShowPopUp(true)
         e.stopPropagation()
     }
 
