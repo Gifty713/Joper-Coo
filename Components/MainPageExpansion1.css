@@ -1,0 +1,11 @@
+.active{
+    color: #F20E0E;
+}
+
+.currentSvg{
+    stroke: #F20E0E;
+}
+
+.styleInput:focus{
+    outline: none;
+}

@@ -1,0 +1,16 @@
+
+.carBtn{
+    display:block; 
+    width:fit-content; 
+    background-color:#fff; 
+    font-size:1.2rem; 
+    margin:30px auto 0 auto; 
+    font-weight:400; 
+    cursor:pointer;
+    font-family: "Tomorrow", sans-serif;
+}
+
+.carBtn:hover{
+    background-color: lightblue;  
+    color: #fff
+}

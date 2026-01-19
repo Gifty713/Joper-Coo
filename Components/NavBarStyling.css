@@ -1,0 +1,32 @@
+/* NavBar Styling */
+.logoStyle{
+    width: 200px;  
+    margin-top: -50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.nameCompany{
+    font-family: "Tomorrow" , sans-serif;
+    font-weight: 600;
+    color: #fff;
+    font-size: 1.4rem;
+    margin-top: 38px;
+    margin-left: -30px;
+    width: 150px;
+}
+
+.tabsStyle{
+    width: 65%;
+    display: flex;
+    justify-content: space-between; 
+    font-size: 1.33rem;
+    color: white; 
+    margin-top: 20px;
+    margin-left: 6%;
+}
+
+.individualTab{
+    display: flex;
+    cursor: pointer;   
+    transition: 0.5s;
+}
